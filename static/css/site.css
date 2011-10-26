@@ -18,7 +18,7 @@ li {list-style-type:none;}
 .center {text-align:center;}
 .right {text-align:right;}
 
-.first a {display:block;margin-top:-1em;}
+.first a {display:block;margin-top:-1em;font-size:80%;}
 #logo,#menu {width:800px;margin:0 auto;}
 #logo img {width:800px;height:600px;border:0;}
 #menu li {display:inline-block;width:160px;margin:0 auto;text-align:center;}
