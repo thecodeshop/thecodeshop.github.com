@@ -1,0 +1,17 @@
+html, body {margin:0;border:0;padding:0;font-size:100%;line-height:1.125;background:transparent;}
+body {font-family:Arial,sans-serif;}
+
+.container {width:960px;margin:0 auto;}
+.first {margin-left:0px !important;clear:left;}
+.grid1,.grid6,.grid17,.grid18 {float:left;margin-left:10px;}
+.grid1 {width:30px;}
+.grid6 {width:230px;}
+.grid17 {width:670px;}
+.grid18 {width:710px;}
+
+#logo,#menu {width:800px;margin:0 auto;}
+#logo img {width:800px;height:600px;border:0;}
+#menu li {display:inline-block;list-style-type:none;width:140px;}
+#menu a:link {text-decoration:none;cursor:pointer;font-family:Arial,sans-serif;font-size:2em;color:#333;}
+#menu a:visited {text-decoration:none;cursor:pointer;color:#333;}
+#menu a:hover {text-decoration:underline;color:#770000;}
