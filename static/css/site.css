@@ -1,22 +1,23 @@
-html, body {margin:0;border:0;padding:0;font-family:Arial,sans-serif;font-size:20px;line-height:1.125;background:transparent;}
-h1 {font-size:138.5%;}
-h2 {font-size:123.1%;}
-h3 {font-size:108%;}
-h1,h2,h3 {font-weight:bold;color:#660000;text-shadow:1px 1px 3px #bdaf5c;}
-p {font-family:Georgia,Times,serif;font-size:100%;line-height:1.4;}
-li {list-style-type:none;}
+html, body {margin:0;border:0;padding:0;font-family:Arial,sans-serif;font-size:20px;line-height:1.125;background:transparent}
+h1 {font-size:138.5%}
+h2 {font-size:123.1%}
+h3 {font-size:108%}
+h1,h2,h3 {font-weight:bold;color:#660000;text-shadow:1px 1px 3px #bdaf5c}
+p {font-family:Georgia,Times,serif;font-size:100%;line-height:1.4}
+li {list-style-type:none}
+hr {border:1px solid #aaa;width:100%;clear:both}
 
 /* (24) 40px columns. Columns divisible by 40 less the 10px left margin */
-.container,.grid24 {width:960px;margin:0 auto;}
-.first {margin-left:0px !important;clear:left;}
-.grid1,.grid6,.grid7,.grid17,.grid18 {float:left;margin-left:10px;}
-.grid1 {width:30px;}
-.grid6 {width:230px;}
-.grid7 {width:270px;}
-.grid17 {width:670px;}
-.grid18 {width:710px;}
-.center {text-align:center;}
-.right {text-align:right;}
+.container,.grid24 {width:960px;margin:0 auto}
+.first {margin-left:0px !important;clear:left}
+.grid1,.grid6,.grid7,.grid17,.grid18 {float:left;margin-left:10px}
+.grid1 {width:30px}
+.grid6 {width:230px}
+.grid7 {width:270px}
+.grid17 {width:670px}
+.grid18 {width:710px}
+.center {text-align:center}
+.right {text-align:right}
 
 .first a {display:block;margin-top:-1em;font-size:80%;}
 #logo,#menu {width:800px;margin:0 auto;}
