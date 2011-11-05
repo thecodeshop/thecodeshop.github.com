@@ -19,10 +19,16 @@ hr {border:1px solid #aaa;width:100%;clear:both}
 .center {text-align:center}
 .right {text-align:right}
 
-.first a {display:block;margin-top:-1em;font-size:80%;}
-#logo,#menu {width:800px;margin:0 auto;}
-#logo img {width:800px;height:600px;border:0;}
-#menu li {display:inline-block;width:160px;margin:0 auto;text-align:center;}
-#menu a:link {text-decoration:none;cursor:pointer;font-size:200%;color:#333;}
-#menu a:visited {text-decoration:none;cursor:pointer;color:#333;}
-#menu a:hover {text-decoration:underline;cursor:pointer;color:#660000;}
+.first a {display:block;margin-top:-1em;font-size:80%}
+#logo,.menu {width:800px;margin:0 auto}
+#logo img {width:800px;height:600px;border:0}
+.menu li {display:inline-block;width:160px;margin:0 auto;text-align:center}
+.menu a:link {text-decoration:none;cursor:pointer;font-size:200%;color:#333}
+.menu a:visited {text-decoration:none;cursor:pointer;color:#333}
+.menu a:hover {text-decoration:underline;cursor:pointer;color:#660000}
+
+.micromenu {width:100%}
+.micromenu li {line-height:0.85}
+.micromenu a:link {text-decoration:none;cursor:pointer;font-size:65%;color:#333}
+.micromenu a:visited {text-decoration:none;cursor:pointer;color:#333}
+.micromenu a:hover {text-decoration:underline;cursor:pointer;color:#660000}
